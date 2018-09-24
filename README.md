@@ -14,7 +14,7 @@ BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
 
 
 Feel free to use my reflink to signup and receive a bonus w/ vultr:
-<a href="https://www.vultr.com/?ref=6903922"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
+<a href="https://www.vultr.com/?ref=7424168"><img src="https://www.vultr.com/media/banner_2.png" width="468" height="60"></a>
 
 ## Supported masternode projects
 
@@ -56,47 +56,47 @@ Comparing with building from source manually, you will benefit from using this s
 SSH to your VPS and clone the Github repository:
 
 ```bash
-git clone https://github.com/MotoAcidic/vps.git && cd vps
+git clone https://github.com/aquilacoin/Advanced-VPS.git && cd vps
 ```
 
 Install & configure your desired master node with options:
 
 ```bash
-./install.sh -p ccbc
+./install.sh -p aqx
 ```
 
 ## Examples for typical script invocation
 
 These are only a couple of examples for typical setups. Check my [easy step-by-step guide for [vultr](/docs/masternode_vps.md) that will guide you through the hardest parts.
 
-**Install & configure 4 PIVX masternodes:**
+**Install & configure 4 AQX masternodes:**
 
 ```bash
-./install.sh -p ccbc -c 4
+./install.sh -p aqx -c 4
 ```
 
-**Update daemon of previously installed CCBC masternodes:**
+**Update daemon of previously installed AQX masternodes:**
 
 ```bash
-./install.sh -p ccbc -u
+./install.sh -p aqx -u
 ```
 
-**Install 6 CCBC masternodes with the git release tag "tags/v3.0.5.1"**
+**Install 6 AQX masternodes with the git release tag "tags/v1.2.0.2"**
 
 ```bash
-./install.sh -p ccbc -c 6 -r "tags/v1.0.0.1"
+./install.sh -p aqx -c 6 -r "tags/v1.2.0.2"
 ```
 
-**Wipe all CCBC masternode data:**
+**Wipe all AQX masternode data:**
 
 ```bash
-./install.sh -p pivx -w
+./install.sh -p aqx -w
 ```
 
-**Install 2 CCBC masternodes and configure sentinel monitoring:**
+**Install 2 AQX masternodes and configure sentinel monitoring:**
 
 ```bash
-./install.sh -p ccbc -c 2 -s
+./install.sh -p aqx -c 2 -s
 ```
 
 ## Options
@@ -187,3 +187,5 @@ Ping me at contact@marsmenschen.com for questions and send some crypto my way if
 ```
 BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
 ```
+
+This was not developed by the Aquila Development Team but rather used for our coin. All right and credit goes to the people who contributed over at [https://nodemaster-vps.com/supported-masternode-projects/](https://nodemaster-vps.com/supported-masternode-projects/).
