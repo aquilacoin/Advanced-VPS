@@ -9,7 +9,7 @@ If this script helped you in any way, please contribute some feedback. BTC donat
 **Have fun, this is crypto after all!**
 
 ```
-BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
+BTC  1M8e7hc92g7abm3cH9wdsWiCtUsQo2wXPE
 ```
 
 
@@ -185,7 +185,7 @@ Ping me at contact@marsmenschen.com for questions and send some crypto my way if
 **Have fun, this is crypto after all!**
 
 ```
-BTC  33ENWZ9RCYBG7nv6ac8KxBUSuQX64Hx3x3
+BTC  1M8e7hc92g7abm3cH9wdsWiCtUsQo2wXPE
 ```
 
 This was not developed by the Aquila Development Team but rather used for our coin. All right and credit goes to the people who contributed over at [https://nodemaster-vps.com/supported-masternode-projects/](https://nodemaster-vps.com/supported-masternode-projects/).
