@@ -116,6 +116,10 @@ The _install.sh_ script support the following parameters:
 | --startnodes | -x           | --                  | starts masternode(s) after installation                             |
 
 ## Troubleshooting the masternode on the VPS
+To view where all your files for the masternodes are this is current location
+```
+/var/lib/masternodes
+```
 
 If you want to check the status of your masternode, the best way is currently running the cli e.g. for $MUE via
 
